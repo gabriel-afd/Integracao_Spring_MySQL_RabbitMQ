@@ -124,9 +124,10 @@ spring.rabbitmq.password=guest
 
 Confira o vídeo demonstrando o funcionamento do projeto no YouTube:
 
-[![Vídeo de Demonstração]([https://www.youtube.com/watch?v=ctHesjREKbQ&ab_channel=Aproando](https://youtu.be/OC4p97kugEk))
+[![Vídeo de Demonstração](https://img.youtube.com/vi/OC4p97kugEk/0.jpg)](https://youtu.be/OC4p97kugEk)
 
-🔗 [Assista aqui diretamente no YouTube](https://www.youtube.com/watch?v=ctHesjREKbQ&ab_channel=Aproando)
+🔗 [Assista aqui diretamente no YouTube](https://youtu.be/OC4p97kugEk)
+
 
 
 ## 👨‍💻 Autor
